@@ -8,5 +8,6 @@ namespace ghDemo
 {
     internal class GameConfig
     {
+        public const string Version = "1.0.0";
     }
 }

@@ -8,5 +8,7 @@ namespace ghDemo.Models
 {
     internal class Enemy
     {
+        public string Name { get; set; }
+        public int Health { get; set; }
     }
 }
