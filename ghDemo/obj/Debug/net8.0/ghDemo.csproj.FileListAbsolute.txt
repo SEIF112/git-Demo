@@ -1,0 +1,15 @@
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\bin\Debug\net8.0\ghDemo.exe
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\bin\Debug\net8.0\ghDemo.deps.json
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\bin\Debug\net8.0\ghDemo.runtimeconfig.json
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\bin\Debug\net8.0\ghDemo.dll
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\bin\Debug\net8.0\ghDemo.pdb
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.AssemblyInfoInputs.cache
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.AssemblyInfo.cs
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.csproj.CoreCompileInputs.cache
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.sourcelink.json
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.dll
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\refint\ghDemo.dll
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.pdb
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ghDemo.genruntimeconfig.cache
+C:\Users\SEIF112\source\repos\ghDemo\ghDemo\obj\Debug\net8.0\ref\ghDemo.dll

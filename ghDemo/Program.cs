@@ -1,10 +1,18 @@
-﻿namespace ghDemo
+﻿using ghDemo.Models;
+using ghDemo.Service;
+
+namespace ghDemo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Hero Bob = new() { Name = "Bob", Health = 100 };
+            Enemy Goblin = new() { Name = "Goblin", Health = 50 };
+
+            BattleService battleService = new BattleService();
+
+            battleService.printBattle(Bob, Goblin);
         }
     }
 }
