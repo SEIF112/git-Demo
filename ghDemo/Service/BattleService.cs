@@ -9,7 +9,7 @@ namespace ghDemo.Service
 {
     internal class BattleService
     {
-        public void printBattle(Hero hero, Enemy enemy)
+        public void PrintBattle(Hero hero, Enemy enemy)
         {
             Console.WriteLine($"Hero: {hero.Name}, Health: {hero.Health}");
             Console.WriteLine($"Enemy: {enemy.Name}, Health: {enemy.Health}");
