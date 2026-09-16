@@ -11,6 +11,8 @@ namespace ghDemo.Service
     {
         public void PrintBattle(Hero hero, Enemy enemy)
         {
+            HealingService.Heal(hero);
+
             Console.WriteLine($"\n=== Battle Start ===\n\n");
 
             Console.WriteLine($"hero: {hero.Name} engages {enemy.Name}!");

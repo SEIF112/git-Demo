@@ -12,7 +12,7 @@ namespace ghDemo
 
             BattleService battleService = new BattleService();
 
-            battleService.printBattle(Bob, Goblin);
+            battleService.PrintBattle(Bob, Goblin);
         }
     }
 }
