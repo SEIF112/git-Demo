@@ -11,6 +11,8 @@ namespace ghDemo.Service
     {
         public void PrintBattle(Hero hero, Enemy enemy)
         {
+            HealingService.Heal(hero);
+
             Console.WriteLine($"Hero: {hero.Name}, Health: {hero.Health}");
             Console.WriteLine($"Enemy: {enemy.Name}, Health: {enemy.Health}");
 

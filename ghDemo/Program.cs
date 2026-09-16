@@ -12,8 +12,6 @@ namespace ghDemo
 
             BattleService battleService = new BattleService();
 
-            HealingService.Heal(Bob);
-
             battleService.PrintBattle(Bob, Goblin);
         }
     }
