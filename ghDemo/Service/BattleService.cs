@@ -11,10 +11,9 @@ namespace ghDemo.Service
     {
         public void PrintBattle(Hero hero, Enemy enemy)
         {
-            Console.WriteLine($"Hero: {hero.Name}, Health: {hero.Health}");
-            Console.WriteLine($"Enemy: {enemy.Name}, Health: {enemy.Health}");
+            Console.WriteLine($"\n=== Battle Start ===\n\n");
 
-            Console.WriteLine($"hero: {hero.Name} fights {enemy.Name}!");
+            Console.WriteLine($"hero: {hero.Name} engages {enemy.Name}!");
         }
     }
 }
